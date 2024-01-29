@@ -16,10 +16,11 @@ This template sets up a Pre-Defined VRChat Project
  
  
 ### Main / Useful Packages (VCC install links)
+##### copy and paste into url bar on browser
+##### can only do it this way since github doesn't embed "vcc://" links
 
-##### Normal Packages:
-[![VRCFury](https://img.shields.io/badge/Click_To_Add_Repo-VRCFury-orange?logo=archlinux&logoColor=fff&style=flat)](vcc://vpm/addRepo?url=https%3A%2F%2Fvcc.vrcfury.com)
-
-##### Shaders:
-[![Poiyomi](https://img.shields.io/badge/Click_To_Add_Repo-Poiyomi-purple?logo=archlinux&logoColor=fff&style=flat)](vcc://vpm/addRepo?url=https%3A%2F%2Fpoiyomi.github.io%2Fvpm%2Findex.json)
-[![LilToon](https://img.shields.io/badge/Click_To_Add_Repo-Liltoon-purple?logo=archlinux&logoColor=fff&style=flat)](vcc://vpm/addRepo?url=https%3A%2F%2Flilxyzw.github.io%2Fvpm-repos%2Fvpm.json)
+```ht
+vcc://vpm/addRepo?url=https%3A%2F%2Fvcc.vrcfury.com
+vcc://vpm/addRepo?url=https%3A%2F%2Fpoiyomi.github.io%2Fvpm%2Findex.json
+vcc://vpm/addRepo?url=https%3A%2F%2Flilxyzw.github.io%2Fvpm-repos%2Fvpm.json
+```
