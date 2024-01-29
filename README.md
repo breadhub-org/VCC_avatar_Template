@@ -24,3 +24,6 @@ vcc://vpm/addRepo?url=https%3A%2F%2Fvcc.vrcfury.com
 vcc://vpm/addRepo?url=https%3A%2F%2Fpoiyomi.github.io%2Fvpm%2Findex.json
 vcc://vpm/addRepo?url=https%3A%2F%2Flilxyzw.github.io%2Fvpm-repos%2Fvpm.json
 ```
+
+### install guide
+[install guide](Install_guide.md)
