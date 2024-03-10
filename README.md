@@ -5,7 +5,7 @@ This template sets up a Pre-Defined VRChat Project
 
 ##### Package Name: uk.co.breadhub.templates.avatar
 
-##### Package Version: 1.0.1
+##### Package Version: 1.0.2
 
 #### Packages included:
 
